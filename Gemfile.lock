@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    dotenv (2.0.2)
     httpclient (2.7.1)
     multi_json (1.11.2)
     pusher (0.17.0)
@@ -14,6 +15,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   pusher
   ruby-kafka
 
